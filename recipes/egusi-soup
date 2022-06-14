@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EgusiSoup</title>
+</head>
+<body>
+    <h1>Egusi soup, served with chicken, white rice and plantain.</h1>
+    <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F20343.jpg">
+    <h3>Description</h3>
+    <p>Egusi soup is native to West Africa (Nigeria) and many of my American as well as Nigerian friends have enjoyed it. It is a great soup for those who like to try something different every once in a while. Ground Egusi seeds give this soup a unique color and flavor. If you can't find Egusi seeds, you can substitute pumpkin seeds. Any combination of crab, shrimp and smoked fish can be used in place of the shrimp. Drained, smoked oysters and chicken can be used in place of the beef.</p>
+    <h4>Ingredients</h4>
+    <ul>
+        <li>Pumpkin seeds</li>
+        <li>Cubed beef stew meat</li>
+        <li>Peanut oil</li>
+        <li>Tomatoes</li>
+        <li>Onion</li>
+        <li>Habanero peppers</li>
+        <li>Tomato sauce</li>
+        <li>Fresh shrimp, peeled and deveined</li>
+        <li>Fresh spinach, washed and chopped</li>
+        <li>Salt</li>
+    </ul>
+    <h4>Steps</h4>
+    <ol>
+        <li>Place ¾ cup pumpkin seeds in a blender and blend for 30 to 40 seconds or until mixture is a powdery paste. Set aside.</li>
+        <li>Wash beef and cut into bite-size cubes. Season with salt. In large pot, heat oil over medium-high heat for 4 to 5 minutes. Add beef and saute for 3 to 5 minutes or until brown but not cooked through.</li>
+        <li>Place tomatoes, onions, and pepper in a blender and blend for about 30 seconds or until smooth. Add tomato mixture to meat, reduce heat to medium-low, and cover. Cook for 40 to 50 minutes or until meat is tender.</li>
+        <li>Add tomato sauce, water, and shrimp and simmer for 10 minutes.</li>
+        <li>Add spinach and ground pumpkin seeds and continue to simmer 10 minutes more.</li>
+    </ol>
+    <p>Recipe source:</p>
+    <a href="https://www.allrecipes.com/recipe/12978/egusi-soup/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/AllRecipes-Logo.svg/1200px-AllRecipes-Logo.svg.png" alt="all recipe logo"></a>
+</body>
+</html>
