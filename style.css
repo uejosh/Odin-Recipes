@@ -23,9 +23,7 @@ h3 {
     margin-top: 60px;
 }
 
-ul {
-    
-}
+
 #index-ul {
     text-align: center;
     list-style: none;
@@ -49,4 +47,11 @@ ul {
 
 #index-p p {
     text-align: center;
+}
+
+@media(max-width: 750px) {
+    img {
+        height: auto;
+        width: 75%;
+    }
 }
