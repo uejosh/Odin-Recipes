@@ -1,0 +1,24 @@
+img {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a img {
+height: auto;
+width: 250px;
+}
+
+body {
+    background-color: beige;
+    font-family: Verdana, sans-serif;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 60px;
+}
