@@ -1,1 +1,2 @@
 The Odin Projects
+Decided to make a text file to keep notes.
